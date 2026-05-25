@@ -1,4 +1,4 @@
-# Hi there, I'm Oludolapo Ogunfowora
+# Hi there, I'm Dolapo
 
 I'm an Engineer with a focus on uncrewed autonomous systems and AI/ML cybersecurity. I work across hardware, operations, and software, I am genuinely interested in building systems that work in the real world, not just on paper.
 
