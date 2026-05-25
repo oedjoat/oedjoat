@@ -19,10 +19,3 @@ I've spent time in workshops, on fleet operations at scale, and now diving deep 
 * **Engineering:** CAD Design | Quality Control | Systems Integration | Technical Report Writing
 
 
-## Education
-
-**MSc Aeronautical Engineering** — University of the Witwatersrand & Embry-Riddle Aeronautical University (2024–2026)  
-Specialization: Uncrewed and Autonomous Systems | 4.0/4.0 GPA (Coursework)
-
-**BEng Mechanical Engineering** — Federal University of Agriculture, Abeokuta (2022)  
-Final Project: Development of Insulation Boards from Natural Fibre Composite Materials
